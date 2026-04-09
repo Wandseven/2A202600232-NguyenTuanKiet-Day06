@@ -13,7 +13,7 @@ Phụ trách thiết vẽ Sketch work flow và viết tools.
 - Điểm còn yếu là spec chưa mô tả kỹ cách kiểm thử trong thực tế. Nhóm đã có metric và threshold, nhưng nếu có thêm bộ câu hỏi mẫu, tiêu chí chấm và nguồn dữ liệu kiểm tra thì phần này sẽ thuyết phục hơn nhiều.
 
 ## 4. Đóng góp khác
-- Test final product theo nhiều path khác nhau cho mỗi feature.
+- Hỗ trợ test final product theo nhiều path khác nhau cho mỗi feature.
 
 ## 5. Điều học được
 Điều mình học được là khi làm AI product, phần khó không chỉ nằm ở model mà nằm ở cách biến nhu cầu mơ hồ của người dùng thành flow rõ ràng. Với bài này, bệnh nhân không chỉ cần câu trả lời đúng mà còn cần được hướng dẫn dễ hiểu, đúng lúc và đúng mức. Điều đó làm mình hiểu rõ hơn vai trò của product thinking khi làm sản phẩm có AI.
