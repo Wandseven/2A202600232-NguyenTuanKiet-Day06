@@ -5,7 +5,7 @@ Phụ trách thiết vẽ Sketch work flow và viết tools.
 
 ## 2. Đóng góp cụ thể
 - Vẽ Sketch work flow của product (User nhập thông tin -> AI reasoning chọn tool -> gọi tool và xử lý yêu cầu)
-- Viết và test 3 tools cho Agent.
+- Viết và test 3 tools cho Agent (search_clinics_by_city; search_vinmec_process; find_nearest_clinics)
 - Hoàn thành phần AI canvas trong SPEC.
 
 ## 3. SPEC mạnh/yếu
